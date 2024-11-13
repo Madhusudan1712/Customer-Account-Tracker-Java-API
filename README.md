@@ -1,4 +1,4 @@
-![IMG_20241108_173148165_MP](https://github.com/user-attachments/assets/85e37e12-3466-4107-aa53-0f8bc3e9f50f)# Customer-Account-Tracker-Java-API
+# Customer-Account-Tracker-Java-API
 Spring Boot application to track customer transaction accounts.
 
 ![IMG_20241108_173148165_MP](https://github.com/user-attachments/assets/a47de737-aff5-4b8e-9937-a8e4c6983740)
